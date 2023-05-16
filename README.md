@@ -1,7 +1,8 @@
 # List of Minecraft Server Hybrids Softwares
 ``` Mods (Forge) + Plugins (Bukkit/Spigot/Paper) ```
 
-This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt.
+This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt. 
+
 And forked from [minecraft-hybrids by Shawiizz](https://github.com/Shawiizz/minecraft-hybrids) to new list (rarely curated, but updated) by DartPower Team.
 
 ### 🪐 Mohist
