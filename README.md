@@ -1,9 +1,11 @@
-# List of Minecraft Server Hybrids Softwares (Mods (Forge) + Plugins (Bukkit/Spigot/Paper)
+# List of Minecraft Server Hybrids Softwares
+``` Mods (Forge) + Plugins (Bukkit/Spigot/Paper) ```
 
 This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt.
+And forked from [minecraft-hybrids by Shawiizz](https://github.com/Shawiizz/minecraft-hybrids) to new list (rarely curated, but updated) by DartPower Team.
 
 ### 🪐 Mohist
-  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2 (experimental)
+  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2, 1.19.4 (experimental)
   - Author: MohistMC
   - Fork: Forge/Spigot/Paper --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -12,7 +14,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🔶 Magma
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5
+  - Version: 1.12.2, 1.16.5 (Deprecated), 1.18.2
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -21,7 +23,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🏔 Arclight
-  - Version: 1.14-1.18.1
+  - Version: 1.14.x-1.19.4 (Huge variants of versions, seperated by LEGACY (Not Supported) and LTS(Common) builds and releases)
   - Author: IzzelAliz
   - Fork: Forge/Bukkit/Spigot --> Arclight
   - Description: A Minecraft Server Forge software implementing Bukkit API using Mixin.
@@ -39,7 +41,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)   
 
 ### 😺 CatServer
-  - Version: 1.12.2
+  - Version: 1.12.2, 1.16.5, 1.18.2
   - Author: Luohuayu
   - Fork: Forge/Spigot/Paper --> CatServer
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -47,7 +49,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
 
-### ☕️ LoliServer
+### ☕️ LoliServer [ABANDONED], Links dead
   - Version: 1.16.5
   - Author: Kotori0629 / Luohuayu
   - Fork: Forge/Spigot/Paper --> Mohist --> LoliServer
@@ -57,7 +59,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge) 
 
 ### 🧻 Cardboard (Bukkit for Fabric)
-  - Version: 1.16.4-1.18.1
+  - Version: 1.16.4-1.18.2
   - Author: IsaiahPatton (CardboardPowered)
   - Fork: -
   - Description: Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (BETA)
@@ -83,7 +85,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
 
-### ☢️ Uranium
+### ☢️ Uranium [ABANDONED (?)]
   - Version: 1.7.10
   - Author: UraniumMC
   - Fork: kCauldron --> Uranium
@@ -92,7 +94,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
 
-### ☕️ Cauldron (ABANDONED)
+### ☕️ Cauldron [ABANDONED]
   - Version: 1.7.10
   - Author: Cauldron
   - Fork: -
@@ -129,4 +131,7 @@ This list classifies the software in relation to their compatibility.
 5. LoliServer
 
 ## 1.18.2
-1. -
+1. Magma
+
+## 1.19.3
+1. - (only Magma W.I.P.)
