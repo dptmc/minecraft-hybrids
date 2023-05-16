@@ -3,7 +3,9 @@
 
 This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt. 
 
-And forked from [minecraft-hybrids by Shawiizz](https://github.com/Shawiizz/minecraft-hybrids) to new list (rarely curated, but updated) by DartPower Team.
+And forked from [minecraft-hybrids by Shawiizz](https://github.com/Shawiizz/minecraft-hybrids) to new list (rarely curated, but updated) by DartPower Team. 
+
+P.S. Very legacy (1.4.7-1.7.2) you can found [here](https://bukkit.ru/threads/mcpc-cauldron-kcauldron-thermos-forge-bukkit-1-4-7-1-7-10.32900/) (Russian, but anyway google-translatable if need)
 
 ### 🪐 Mohist
   - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2, 1.19.4 (experimental)
